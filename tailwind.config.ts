@@ -15,7 +15,10 @@ const config: Config = {
 		},
 		extend: {
 			colors: {
-				gray_800:'#18212f',
+				gray_800: '#111827',
+				gray_700: '#18212f',
+				purple_500: '#4f46e5',
+				gray_600:'#1f2937',
 				border: "hsl(var(--border) / <alpha-value>)",
 				input: "hsl(var(--input) / <alpha-value>)",
 				ring: "hsl(var(--ring) / <alpha-value>)",
